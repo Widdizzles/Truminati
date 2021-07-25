@@ -1,9 +1,42 @@
-  body {
-    background-color: #548CA8;
-  }
-  hr {
-    border-style: none none dotted;
-    width: 10%;
-    border-width: 10px;
-    border-color: red;
-  }
+a {
+  color: white;
+}
+
+a:hover {
+  color: #A91E00;
+}
+
+body {
+  background-color: #4B4B4B;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+h1 {
+  color: white;
+  -webkit-margin-after: 0px;
+  -webkit-margin-before: 0px;
+}
+
+hr {
+  border-style: none none dotted;
+  border-width: 10px;
+  border-color: #A91E00;
+  width: 10%;
+}
+
+label {
+  color:white
+}
+
+p {
+  color: white;
+  -webkit-margin-after: 0px;
+  -webkit-margin-before: 0px;
+}
+
+div {
+  background-color: #A91E00;
+}
