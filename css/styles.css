@@ -1,0 +1,9 @@
+  body {
+    background-color: #548CA8;
+  }
+  hr {
+    border-style: none none dotted;
+    width: 10%;
+    border-width: 10px;
+    border-color: red;
+  }
