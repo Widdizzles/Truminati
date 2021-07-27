@@ -8,16 +8,31 @@ a:hover {
 
 body {
   background-color: #4B4B4B;
-  margin-bottom: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 0px;
+  margin: 0;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
   color: white;
-  -webkit-margin-after: 0px;
-  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0;
+  -webkit-margin-before: 0;
+}
+
+h2 {
+  color: white;
+  -webkit-margin-after: 3px;
+}
+
+h3 {
+  color: white;
+  -webkit-margin-after: 3px;
+  -webkit-margin-before: 3px;
 }
 
 hr {
