@@ -66,7 +66,7 @@ hr {
 }
 
 label {
-  color:white
+  color: white;
 }
 
 .navbar {
@@ -82,4 +82,5 @@ p {
   -webkit-margin-after: 0;
   -webkit-margin-before: 0;
   display: inline-block;
+  margin-top: 3px;
 }
